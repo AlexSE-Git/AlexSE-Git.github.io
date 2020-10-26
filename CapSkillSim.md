@@ -5,7 +5,7 @@ title: 战舰世界舰长加点模拟器
 
 <br />
 
-> 适用于新版本的21点技能树
+**0.3.2 版本发布了！** 加入查看技能详情功能，快来为舰长技能改动提前做好准备吧
 
 <br />
 
@@ -17,7 +17,7 @@ title: 战舰世界舰长加点模拟器
 
 ## 📦获取软件安装包
 
-下载链接：[Onedrive](https://1drv.ms/u/s!Ak59FpAwApZna4fjAJP6CMIsfyw?e=aYv8wJ){:target="_blank"}
+下载链接：[0.3.2](https://1drv.ms/u/s!Ak59FpAwApZnbJE0Ojkr5MOnUfQ?e=sfSbFv){:target="_blank"}
 
 <br />
 
