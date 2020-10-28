@@ -61,6 +61,7 @@ description: 君子生非异也，善假于物也
 * * *
 
 📞[Alex的联系方式](./ContactMe.md)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 <br />
 
