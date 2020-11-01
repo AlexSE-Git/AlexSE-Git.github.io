@@ -19,9 +19,9 @@ title: 战舰世界舰长加点模拟器
 
 下载链接（0.3.2）：
 
-[Onedrive](https://1drv.ms/u/s!Ak59FpAwApZnbJE0Ojkr5MOnUfQ?e=sfSbFv){:target="_blank"} 
+    [Onedrive](https://1drv.ms/u/s!Ak59FpAwApZnbJE0Ojkr5MOnUfQ?e=sfSbFv){:target="_blank"} 
 
-[百度云 提取码: z67b](https://pan.baidu.com/s/1-WAwM4wMZvusRLFBUK0D5g){:target="_blank"}
+    [百度云](https://pan.baidu.com/s/1-WAwM4wMZvusRLFBUK0D5g){:target="_blank"} 提取码: z67b
 
 <br />
 
