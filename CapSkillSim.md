@@ -5,7 +5,7 @@ title: 战舰世界舰长加点模拟器
 
 <br />
 
-**0.3.2 版本发布了！** 加入查看技能详情功能，快来为舰长技能改动提前做好准备吧
+**0.4.0 版本发布了！** 加入“分享链接给好友”功能：分享你的加点思路，从未如此方便
 
 <br />
 
@@ -17,17 +17,17 @@ title: 战舰世界舰长加点模拟器
 
 ## 📦获取软件安装包
 
-下载链接（0.3.2）：
+下载链接（0.4.0）：
 
-*   [Onedrive](https://1drv.ms/u/s!Ak59FpAwApZnbJE0Ojkr5MOnUfQ?e=sfSbFv){:target="_blank"} 
-
-*   [百度云](https://pan.baidu.com/s/1-WAwM4wMZvusRLFBUK0D5g){:target="_blank"} 提取码: z67b
+*   [百度云](https://pan.baidu.com/s/1XVOXxTe7o7j38tV1KifSQQ){:target="_blank"} 提取码: t23e
 
 <br />
 
 ## 🎬视频演示
 
-b站演示视频：[网页链接](https://www.bilibili.com/video/BV1F5411L7To){:target="_blank"}
+基础功能演示视频：[网页链接](https://www.bilibili.com/video/BV1F5411L7To){:target="_blank"}
+
+0.4.0 新功能演示：[网页链接](https://www.bilibili.com/video/BV17y4y1z73P){:target="_blank"}
 
 <br />
 
