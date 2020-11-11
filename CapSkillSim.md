@@ -27,13 +27,13 @@ title: 战舰世界舰长加点模拟器
 
 <br />
 
-基础功能：
+### 基础功能：
 
 {% include bilibiliPlayer.html id="?aid=457537246&bvid=BV1F5411L7To&cid=248184935&page=1" %}
 
 <br />
 
-0.4.0 新功能
+### 0.4.0 新功能
 
 {% include bilibiliPlayer.html id="?aid=800240701&bvid=BV17y4y1z73P&cid=254010773&page=1" %}
 
