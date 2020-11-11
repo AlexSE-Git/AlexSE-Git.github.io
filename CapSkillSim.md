@@ -27,6 +27,8 @@ title: 战舰世界舰长加点模拟器
 
 基础功能演示视频：[网页链接](https://www.bilibili.com/video/BV1F5411L7To){:target="_blank"}
 
+{% include bilibiliPlayer.html id="?aid=457537246&bvid=BV1F5411L7To&cid=248184935&page=1" %}
+
 0.4.0 新功能演示：[网页链接](https://www.bilibili.com/video/BV17y4y1z73P){:target="_blank"}
 
 <br />
