@@ -49,6 +49,7 @@ description: 君子生非异也，善假于物也
 ## 反对996
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu){:target="_blank"}
+我热爱软件开发，但工作不是我生活的全部。有时候为了赶ddl，偶尔的加班也是难免的。然而长期的加班一定是不正常的，应当反思自己的工作效率是否有待提高，抑或是项目管理上出现了问题。
 
 <br />
 
