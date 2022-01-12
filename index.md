@@ -25,6 +25,7 @@ description: 君子生非异也，善假于物也
 ## 💡我的作品
 
 * [战舰世界舰长加点模拟器](./CapSkillSim.md)
+* [降雨模拟（GitHub）](https://github.com/AlexSE-Git/Rainfall_pub){:target="_blank"}
 
 <br />
 
