@@ -40,7 +40,7 @@ title: 战舰世界舰长加点模拟器
 <br />
 
 ### 👨‍💻GitHub 页面
-[github page](https://github.com/AlexSE-Git/Capsim_pub){:target="_blank"}
+[链接](https://github.com/AlexSE-Git/Capsim_pub){:target="_blank"}
 
 <br />
 
